@@ -1,0 +1,4 @@
+# Project exclude paths
+/easyjob-admin/target/
+/easyjob-api/target/
+/easyjob-common/target/
