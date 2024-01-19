@@ -11,8 +11,8 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableTransactionManagement
 @EnableScheduling
 @EnableAsync
-public class EasyjobAdminApplication {
+public class EasyjobApiApplication {
     public static void main(String[] args) {
-        SpringApplication.run(EasyjobAdminApplication.class,args);
+        SpringApplication.run(EasyjobApiApplication.class,args);
     }
 }
